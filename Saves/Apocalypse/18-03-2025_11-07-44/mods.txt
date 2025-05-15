@@ -1,0 +1,47 @@
+VERSION = 1,
+
+mods
+{
+	mod = BecomeDesensitized,
+	mod = BB_Auto_Engineering,
+	mod = BB_Utils,
+	mod = BB_Cammo,
+	mod = BrutalHandwork,
+	mod = FancyHandwork,
+	mod = MoreCLR_desc4mood,
+	mod = CombatText,
+	mod = BB_CommonSense,
+	mod = EasyCorpseMove,
+	mod = EQUIPMENT_UI,
+	mod = BB_FirstAidOverhaul,
+	mod = BB_FirstAidOverhaul_Alt,
+	mod = GRGV,
+	mod = NoLighterNeeded,
+	mod = MapLegendUI,
+	mod = modoptions,
+	mod = ModTemplate,
+	mod = BB_OneOfUs,
+	mod = hf_point_blank,
+	mod = POM,
+	mod = PropaneandGasoline,
+	mod = PropaneandGasolineLegacy,
+	mod = RainCleansBlood,
+	mod = RebalancedPropMoving,
+	mod = ScrapWeapons(new version),
+	mod = TheWorkshop(new version),
+	mod = SkillRecoveryJournal,
+	mod = tsarslib,
+	mod = StandardizedVehicleUpgrades3ZI,
+	mod = StandardizedVehicleUpgrades3Core,
+	mod = StandardizedVehicleUpgrades3V,
+	mod = StandardizedVehicleUpgrades3TS,
+	mod = TheOnlyCure,
+	mod = VehicleRecycling,
+	mod = WaterDispenser,
+	mod = WaterDispenserDisabler,
+	mod = BB_WhereAmI,
+}
+
+maps
+{
+}
